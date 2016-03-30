@@ -1,0 +1,31 @@
+{
+  "name": "kinto-chat",
+  "authors": [
+    "Daniel Foght Jensen <dalle@iflux.dk>"
+  ],
+  "description": "my venture to creating realtime apps using my selfhosted Kinto server",
+  "main": "app.js",
+  "moduleType": [],
+  "keywords": [
+    "kinto",
+    "chat",
+    "jqeury",
+    "bootstrap",
+    "javascript",
+    "material"
+  ],
+  "license": "MIT",
+  "homepage": "chat.iflux.dk",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "^0.5.9",
+    "font-awesome": "fontawesome#^4.5.0"
+  }
+}
