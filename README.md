@@ -10,5 +10,5 @@ A small javascript chat based on a Kinto backend
 ````
 git pull https://github.com/iflux1990/kinto-chat
 cd kinto-chat
-bower update
+bower install
 ````
